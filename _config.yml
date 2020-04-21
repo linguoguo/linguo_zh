@@ -6,7 +6,7 @@ email: linguo1112@gmail.com
 description: "Every failure is leading towards success."
 keyword: "data, GL Blog, blog d'l"
 url: "https://linguoguo.github.io/"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/new_zh"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/linguoguo/linguoguo.github.io" # you code repository
 
 # Sidebar settings
