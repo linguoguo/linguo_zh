@@ -4,7 +4,7 @@ SEOTitle: 少琳肆
 header-img: img/post-bg-desk.jpg
 email: linguo1112@gmail.com
 description: "Every failure is leading towards success."
-keyword: "data, GL Blog, blog d'l"
+keyword: "data, GL Blog, blog d'l,少琳肆,pico"
 url: "https://linguoguo.github.io/"          # your host, for absolute URL
 baseurl: "/linguo_zh"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/linguoguo/linguoguo.github.io" # you code repository
@@ -12,7 +12,7 @@ github_repo: "https://github.com/linguoguo/linguoguo.github.io" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/WechatIMG115.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/p1.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
