@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      那个张扬的同学的影响
-subtitle:   Dive into Deep Learning
+subtitle:   是嫉妒？是喜欢？是觉得不可靠近？
 date:       2020-06-05
 author:     少琳肆
 header-img: post_img/2020-06/ellie-brown-uv6nFDvO2Po-unsplash.jpg
