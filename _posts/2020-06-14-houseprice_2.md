@@ -259,7 +259,7 @@ train_features[:3]
 
 ### 定义模型
 
-我们使用一个基本的线性回归模型和平方损失函数来训练模型。 关于更多gluon使用的步骤请参考这里
+我们使用一个基本的线性回归模型和平方损失函数来训练模型。 关于更多gluon使用的步骤请参考[这里](https://zh.d2l.ai/chapter_deep-learning-basics/linear-regression-gluon.html)
 
 
 ```python
