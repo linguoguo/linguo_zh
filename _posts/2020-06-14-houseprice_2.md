@@ -331,3 +331,9 @@ for epoch in range(1, num_epochs + 1):
 + 损失函数的结果怎么看，是大还是小
 
 新手村的小伙伴们，你们有什么看法呢？
+<p align="center">
+<img src="https://raw.githubusercontent.com/linguoguo/linguo_zh/master/img/end.png" width="200" >
+</p>
+
+
+此处围观我的[知乎博客](https://zhuanlan.zhihu.com/p/148303060)，这里[下载](https://github.com/linguoguo/data_science/blob/master/house_pricing/regression_house_2_features.ipynb)本文代码
