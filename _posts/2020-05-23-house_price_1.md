@@ -8,13 +8,14 @@ header-img: post_img/2020-05/house.jpg
 catalog: true
 tags:
     - 机器学习
-    - 博客
     - 深度学习
     - 学习资料
     - 菜鸟日记
     - 错题本
     - 学习笔记
     - 房价预测
+    - mxnet
+    - gluon
     
 ---    
 ## 如题 ：
