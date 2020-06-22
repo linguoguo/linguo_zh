@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      用mxnet的gluon线性回归训练只有两个特征的数据集
+title:      用mxnet的gluon线性回归训练只有两个特征的数据集（1/3）
 subtitle:   动手学深度学习课外作业之房价预测
 date:       2020-06-14
 author:     少琳肆
